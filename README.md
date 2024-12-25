@@ -22,7 +22,7 @@ Each problem is organized into its own folder within the relevant category, maki
 ## 🛠 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/neetcode-python-solutions.git
+   git clone https://github.com/aniketshukla1/DSA-AlgoMaster-Solutions.git
    ```
 2.	Navigate to the category and problem folder you’re interested in:
      ```bash
