@@ -2,7 +2,7 @@
 
 This repository contains **Python solutions** for all problems covered on [AlgoMaster.io](https://algomaster.io), organized for easy reference and learning. Each solution is written with clarity and includes comments explaining the approach, time complexity, and space complexity.
 
-**More language support (e.g., Java, C++, JavaScript, Golang) will be added soon**, making this repository a one-stop solution for Neetcode.io problems in multiple languages.
+**More language support (e.g., Java, C++, JavaScript, Golang) will be added soon**, making this repository a one-stop solution for AlgoMaster.io problems in multiple languages.
 
 ## 🌟 Features
 - **Comprehensive Coverage**: Solutions for all AlgoMaster.io problem categories.
