@@ -17,6 +17,7 @@ class MyHashMap:
         while cur.nxt:
             if cur.nxt.key == key:
                 cur.nxt.value = value
+                return
             cur = cur.nxt
         cur.nxt = ListNode(key=key, value=value)
 
