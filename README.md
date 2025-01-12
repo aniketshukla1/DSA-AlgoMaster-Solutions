@@ -15,6 +15,7 @@ The repository is organized into folders based on problem categories:
 
 - 📦 **AlgoMaster.io Solutions**
   - **Arrays**
+  - **Hash Tables**
 
 
 Each problem is organized into its own folder within the relevant category, making finding and reviewing solutions easy.
