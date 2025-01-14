@@ -26,6 +26,5 @@ class Solution:
         elif last_element != None and (-1 * last_element[0]) == 1:
             if len(string) > 0 and string[-1] == last_element[1]:
                 return ""
-            else:
-                string += last_element[1]
+            string += last_element[1]
         return string
